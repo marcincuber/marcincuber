@@ -10,8 +10,8 @@
 ### Architecting resilient, scalable cloud infrastructure — at scale.
 
 [![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Terraform](https://img.shields.io/badge/Terraform-Seasoned-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Seasoned-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Terraform](https://img.shields.io/badge/Terraform-Expert-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcincuber-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcincuber)
 
 </div>
