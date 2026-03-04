@@ -43,6 +43,7 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Prefect Cloud](https://img.shields.io/badge/Prefect_Cloud-7B42BC?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **AWS services I work with daily:**
 `EKS` · `EC2` · `S3` · `RDS` · `Lambda` · `VPC` · `IAM` · `CloudFront` · `Route53` · `SQS/SNS` · `ECS` · `Secrets Manager` · `CloudWatch` · `Control Tower` · `Organizations` · `GuardDuty` · `Security Hub`
