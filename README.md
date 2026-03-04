@@ -53,7 +53,6 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 
 - Production **EKS** cluster design, multi-tenancy, and hardening (CIS benchmarks, Pod Security Standards)
 - **Helm** chart authoring and lifecycle management via ArgoCD / Flux
