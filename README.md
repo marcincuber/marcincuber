@@ -164,7 +164,6 @@ open_to:        Collaboration · Open Source · Architecture discussions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcincuber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcincuber)
 [![GitHub](https://img.shields.io/badge/GitHub-marcincuber-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcincuber)
-[![X](https://img.shields.io/badge/X-@marcincuber-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marcincuber)
 
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 — Martin Fowler
