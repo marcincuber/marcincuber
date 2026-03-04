@@ -66,11 +66,10 @@ open_to:        Collaboration · Open Source · Architecture discussions
 
 ### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Terragrunt](https://img.shields.io/badge/Terragrunt-444?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-- Authoring **reusable Terraform modules** and multi-environment landing zones with Terragrunt
+- Authoring **reusable Terraform modules** and multi-environment landing zones with Terraform
 - Managing state at scale with remote backends (S3 + DynamoDB), workspaces, and module versioning
 - **Policy-as-code** with Sentinel and OPA
 - Configuration management with **Ansible** across hybrid environments
@@ -93,13 +92,12 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ### Observability & Reliability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat-square&logo=opentelemetry&logoColor=white)
+![NewRelic](https://img.shields.io/badge/NewRelic-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
-- Full-stack observability with **Prometheus + Grafana**, ELK / OpenSearch, and Datadog
-- **Distributed tracing** with OpenTelemetry, Jaeger, and AWS X-Ray
+- Full-stack observability with **Prometheus + Grafana**, ELK / OpenSearch, and NewRelic
+- **Distributed tracing** with NewRelic, Jaeger, and AWS X-Ray
 - SLO/SLI definition and error budget management following **SRE principles**
-- Chaos engineering with **LitmusChaos** and AWS Fault Injection Simulator
+- Chaos engineering with AWS Fault Injection Simulator
 
 ---
 
@@ -115,12 +113,10 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ---
 
 ### Languages & Scripting
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-`Go` for CLI tools, Kubernetes operators, and mTLS microservices · `Python` for automation and AWS Lambda · `Bash` for infrastructure scripting · `TypeScript` for CDK stacks and serverless applications
+`Python` for automation and AWS Lambda · `Bash` for infrastructure scripting ·
 
 ---
 
