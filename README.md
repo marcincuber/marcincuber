@@ -103,6 +103,7 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ### Security & Compliance
 ![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-7B42BC?style=flat-square&logo=aquasecurity&logoColor=white)
 
 - **Zero-trust** network architectures and least-privilege IAM at scale (ABAC, SCPs, Permission Boundaries)
 - Secrets management with **HashiCorp Vault** and AWS Secrets Manager
@@ -124,7 +125,7 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ```
 ► Multi-account AWS landing zones with full governance (Control Tower + AFT)
 ► EKS platforms serving production workloads with 99.99% uptime SLAs
-► GitOps-driven delivery pipelines with ArgoCD and Flux V2
+► GitOps-driven delivery pipelines with ArgoCD and FluxCD
 ► Kubernetes Go microservices with full mTLS via service mesh
 ► GitLab runner fleets on Kubernetes for scalable CI at scale
 ► Self-service internal developer platforms reducing deploy times by 70%+
@@ -140,7 +141,7 @@ open_to:        Collaboration · Open Source · Architecture discussions
 |---|---|---|
 | [eks](https://github.com/marcincuber/eks) | AWS EKS Kubernetes project & Terraform module | ⭐ 334 |
 | [argocd](https://github.com/marcincuber/argocd) | Kubernetes Argo CD tutorial & patterns | |
-| [kubernetes-fluxv2](https://github.com/marcincuber/kubernetes-fluxv2) | Helm deployments via Flux V2 | ⭐ 12 |
+| [kubernetes-fluxv2](https://github.com/marcincuber/kubernetes-fluxv2) | Helm deployments via FluxCD | ⭐ 12 |
 | [gha](https://github.com/marcincuber/gha) | GitHub Actions workflows collection | |
 | [kubernetes-gitlab-runner](https://github.com/marcincuber/kubernetes-gitlab-runner) | GitLab runners on Kubernetes | ⭐ 19 |
 | [k3d-ping-pong-go-apps-with-mtls](https://github.com/marcincuber/k3d-ping-pong-go-apps-with-mtls) | Go apps with mTLS on k3d | |
