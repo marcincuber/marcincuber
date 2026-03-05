@@ -56,7 +56,7 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 - Production **EKS** cluster design, multi-tenancy, and hardening (CIS benchmarks, Pod Security Standards)
-- **Helm** chart authoring and lifecycle management via ArgoCD / Flux
+- **Helm** chart authoring and lifecycle management via ArgoCD / FluxCD
 - **Service mesh** with mTLS, traffic management, and full observability
 - Cluster autoscaling with **Karpenter** and **KEDA**
 - **OPA / Gatekeeper** policy enforcement and admission control
@@ -78,10 +78,10 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ### CI/CD & GitOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Flux](https://img.shields.io/badge/Flux_V2-5468FF?style=flat-square&logo=flux&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-- Designing **GitOps workflows** with ArgoCD and Flux V2 for Kubernetes-native continuous delivery
+- Designing **GitOps workflows** with ArgoCD and FluxCD for Kubernetes-native continuous delivery
 - Building **GitHub Actions** pipelines with security scanning, drift detection, and automated rollbacks
 - Blue/green and canary deployments, progressive delivery with **Flagger**
 - OIDC-based **keyless authentication** between CI systems and cloud providers
