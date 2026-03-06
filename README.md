@@ -46,7 +46,10 @@ open_to:        Collaboration · Open Source · Architecture discussions
 ![Prefect Cloud](https://img.shields.io/badge/Prefect_Cloud-7B42BC?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **AWS services I work with daily:**
-`EKS` · `EC2` · `S3` · `RDS` · `Lambda` · `VPC` · `IAM` · `CloudFront` · `Route53` · `SQS/SNS` · `ECS` · `Secrets Manager` · `CloudWatch` · `Control Tower` · `Organizations` · `GuardDuty` · `Security Hub`
+`EKS` · `EC2` · `S3` · `RDS` · `Lambda` · `VPC` · `IAM` · `CloudFront` · `Route53` · `SQS/SNS` · `ECS` · `Secrets Manager` · `CloudWatch` · `Control Tower` · `Organizations` · `GuardDuty` · `Security Hub` · `Directory service`
+
+••Azure services:**
+`Azure Active Directory (Azure AD), now rebranded as Microsoft Entra ID` · `Azure OpenAI` · `Networks` · `AKS`
 
 ---
 
@@ -65,11 +68,12 @@ open_to:        Collaboration · Open Source · Architecture discussions
 
 ### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform_Cloud-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 - Authoring **reusable Terraform modules** and multi-environment landing zones with Terraform
-- Managing state at scale with remote backends (S3 + DynamoDB), workspaces, and module versioning
+- Managing state at scale with remote backends (S3 + DynamoDB, S3 with native locking, and Terraform Cloud), workspaces, and module versioning
 - **Policy-as-code** with Sentinel and OPA
 - Configuration management with **Ansible** across hybrid environments
 
