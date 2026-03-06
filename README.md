@@ -48,7 +48,7 @@ open_to:        Collaboration · Open Source · Architecture discussions
 **AWS services I work with daily:**
 `EKS` · `EC2` · `S3` · `RDS` · `Lambda` · `VPC` · `IAM` · `CloudFront` · `Route53` · `SQS/SNS` · `ECS` · `Secrets Manager` · `CloudWatch` · `Control Tower` · `Organizations` · `GuardDuty` · `Security Hub` · `Directory service`
 
-••Azure services:**
+**Azure services:**
 `Azure Active Directory (Azure AD), now rebranded as Microsoft Entra ID` · `Azure OpenAI` · `Networks` · `AKS`
 
 ---
