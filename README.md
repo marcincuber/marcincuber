@@ -68,7 +68,7 @@ open_to:        Collaboration · Open Source · Architecture discussions
 
 ### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform_Cloud-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![TerraformCloud](https://img.shields.io/badge/Terraform_Cloud-7B42BC?style=flat-square&logo=terraform_cloud&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
